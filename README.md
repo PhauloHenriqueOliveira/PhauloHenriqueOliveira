@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo!
 
 - 🔭 hoje estou buscando uma vaga na área de TI
 - 🌱 Sou um técnico formado através do senai, e um analista de dados pela EBAC
